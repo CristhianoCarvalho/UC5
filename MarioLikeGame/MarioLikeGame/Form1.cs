@@ -318,7 +318,7 @@ namespace MarioLikeGame
             this.Close();
         }
 
-        //private void Audio(string caminho, string estadoMP)
+        ///private void Audio(string caminho, string estadoMP)
         //{
         //    //Verifica se ocorreu erro ao instanciar o Windows Media Player
         //    Tocador.MediaError += new WMPLib._WMPOCXEvents_MediaErrorEventHandler(Tocador_MediaError);
